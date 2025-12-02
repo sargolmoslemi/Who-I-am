@@ -8,7 +8,7 @@ because what better way to show your skills than through code itself?
 
 ## 🚀 Overview
 
-This Streamlit app introduces me (`Mahdis Ahmadi`) as a developer, lists my technical skills,  
+This Streamlit app introduces me (`Sargol Moslemi`) as a developer, lists my technical skills,  
 and interactively highlights skillsets across different professional areas.
 
 You can explore my areas of expertise and see which skills I use in each one.
