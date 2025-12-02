@@ -1,2 +1,21 @@
-# Who-I-am
-A fun, interactive, and code-driven résumé built with Python! This project showcases my technical background and skill set in a conversational way. It includes a Streamlit-based UI version that lets users explore my areas of expertise and see which skills I highlight for each field.
+💻 Developer CV Script
+Welcome to my interactive Python Developer CV!
+This project turns a traditional résumé into a small, executable Streamlit app —
+because what better way to show your skills than through code itself?
+
+🚀 Overview
+This Streamlit app introduces me (Sargol Moslemi) as a developer, lists my technical skills,
+and interactively highlights skillsets across different professional areas.
+
+You can explore my areas of expertise and see which skills I use in each one.
+
+🧩 Features
+👤 Developer introduction with personal motto
+🧠 Displays technical skills interactively
+🧭 Select an area (Data, Web, Software, Business)
+🔥 Shows highlighted skills per area
+🌐 Streamlit-based responsive web interface
+🛠️ Tech Stack
+Python 3.10+
+Streamlit
+Dataclasses
