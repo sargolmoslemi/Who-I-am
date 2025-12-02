@@ -42,8 +42,8 @@ def main():
 
     # --- Developer Info ---
     me = Developer(
-        first_name="Mahdis",
-        last_name="Ahmadi",
+        first_name="Sargol",
+        last_name="Moslemi",
         skills=[
             "Python",
             "SQL | Databases",
@@ -69,7 +69,7 @@ def main():
     st.success(area_instance.random_skill(selected_area))
 
     st.divider()
-    st.caption("Created with ❤️ by Mahdis Ahmadi")
+    st.caption("Created with ❤️ by Sargol Moslemi")
 
 if __name__ == "__main__":
     main()
