@@ -32,3 +32,11 @@ You can explore my areas of expertise and see which skills I use in each one.
 - **Dataclasses**
 
 ---
+
+## ⚡ Quick Start
+
+### Run locally
+
+```bash
+pip install -r requirements.txt
+streamlit run streamlit_app.py
